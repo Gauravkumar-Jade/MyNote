@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="create_note">Create Note</string>
+    <string name="update_note">UpdateNote</string>
+    <string name="back_button">Back Button</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_content">Note Content</string>
+    <string name="no_note_description">Oops!\nNo notes in the list.\nTap + to add.</string>
+    <string name="item_entry_title">Enter new note</string>
+    <string name="sample_content">India\'s former U19 captain Unmukt Chand is set to face his birth nation when he plays in the T20 World Cup 2024. Chand retired from Indian cricket in September 2021 after failing to cut into the national team.</string>
+    <string name="save_action">Save Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_action">Edit Note</string>
+    <string name="delete_action">Delete Note</string>
+    <string name="attention">Attention</string>
+    <string name="delete">Delete</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
